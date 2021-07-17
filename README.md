@@ -18,6 +18,9 @@ Python
 - https://oshonkoponpon.s3.ap-northeast-1.amazonaws.com/%E7%A8%AE%E9%A1%9E%E3%83%A2%E3%83%86%E3%82%99%E3%83%AB.zip
 - https://oshonkoponpon.s3.ap-northeast-1.amazonaws.com/%E5%93%81%E7%A8%AE%E3%83%A2%E3%83%86%E3%82%99%E3%83%AB.zip 
 
+下記URLからモデルをダウンロードし、document/アノテーションの効果に配置
+- https://oshonkoponpon.s3.ap-northeast-1.amazonaws.com/%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%8A%B9%E6%9E%9C%E3%83%A2%E3%83%86%E3%82%99%E3%83%AB.zip
+
 データ
 下記URLからデータをダウンロードし、data内に配置
 - https://oshonkoponpon.s3.ap-northeast-1.amazonaws.com/%E5%AD%A6%E7%BF%92%E3%83%86%E3%82%B9%E3%83%88%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF.zip
