@@ -14,11 +14,13 @@ Python
 
 モデル
 
--
+下記URLからモデルをダウンロードし、program/model_data内に配置
+- https://oshonkoponpon.s3.ap-northeast-1.amazonaws.com/%E7%A8%AE%E9%A1%9E%E3%83%A2%E3%83%86%E3%82%99%E3%83%AB.zip
+- https://oshonkoponpon.s3.ap-northeast-1.amazonaws.com/%E5%93%81%E7%A8%AE%E3%83%A2%E3%83%86%E3%82%99%E3%83%AB.zip 
 
 データ
-
--
+下記URLからデータをダウンロードし、data内に配置
+- https://oshonkoponpon.s3.ap-northeast-1.amazonaws.com/%E5%AD%A6%E7%BF%92%E3%83%86%E3%82%B9%E3%83%88%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF.zip
 
 ## 課題実行方法
 
